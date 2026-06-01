@@ -16,17 +16,13 @@
 h1{
     margin:20px;
 }
-.input-section{
-     display:flex;
-     justify-content:center;
 
-}
 .input-section input{
     width: 300px;
     height: 40px;
     padding: 10px;
     font-size: 16px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 4px;
     margin:5px;
 }
@@ -35,7 +31,7 @@ h1{
     height: 40px;
     padding: 10px;
     font-size: 16px;
-    border: 1px solid black;
+    border: 2px solid black;
     border-radius: 4px;
     margin:5px;
     
@@ -54,13 +50,11 @@ h1{
 }
 .section{
     width:890px;
-    
     margin: 20px;
-
 }
 .section h2{
     width:650px;
-
+    margin-bottom: 10px;
 }
 
 button:hover {
